@@ -13,7 +13,7 @@ Prior to following this walkthrough, you should have a basic understanding of ST
 
 It is helpful to have some knowledge of JSON (JavaScript Object Notation), which is the data-interchange format STIX 2.0 uses to serialize objects and properties. An introduction to JSON can be found [here](http://www.json.org/).
 
-Finally, for this particular example it may also be useful to have an understanding of how STIX is transported using TAXII. An overview of the communication methods used to transport STIX in TAXII 2.0 is available in the [TAXII specification draft]({{ site.baseurl }}/resources#taxii-20-specification).
+Finally, for this particular example it may also be useful to have an understanding of how STIX is transported using TAXII. An overview of the communication methods used to transport STIX in TAXII 2.0 is available in the [TAXII specification]({{ site.baseurl }}/resources#taxii-20-specification).
 
 ## Scenario Overview
 
